@@ -1,0 +1,2 @@
+# learnc
+write,rewrite,read
